@@ -1,0 +1,3 @@
+﻿  Application.cpp
+E:\CPP Projects\OpenGLLearning\OpenGLLearning\src\Application.cpp(34,5): warning C4305: 'initializing': truncation from 'double' to 'float'
+  OpenGLLearning.vcxproj -> E:\CPP Projects\OpenGLLearning\Debug\OpenGLLearning.exe
